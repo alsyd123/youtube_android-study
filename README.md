@@ -15,4 +15,6 @@
         android:gravity="center"
         android:background="@android:color/holo_blue_light"
         />
-</LinearLayout>
+</ LinearLayout>
+
+ㅇㅇㅇㅇ
