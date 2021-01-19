@@ -16,5 +16,3 @@
         android:background="@android:color/holo_blue_light"
         />
 </ LinearLayout>
-
-ㅇㅇㅇㅇ
